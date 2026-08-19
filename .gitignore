@@ -1,0 +1,37 @@
+# === SEGREDOS — NUNCA COMMITAR ===
+instance/
+key_master
+key_master.txt
+private_key
+private_key.txt
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+
+# === Logs ===
+*.log
+
+# === Build do jogo / binários grandes ===
+builds/
+*.exe
+*.zip
+build/
+dist/
+
+# === Python ===
+*.pyc
+*.pyo
+__pycache__/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# === IDE / SO ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.claude/
