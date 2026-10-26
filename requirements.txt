@@ -4,3 +4,4 @@ SQLAlchemy>=2.0
 mysql-connector-python>=8.0
 cryptography>=42.0
 python-dotenv>=1.0
+gunicorn>=22.0

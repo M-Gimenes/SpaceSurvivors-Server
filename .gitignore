@@ -35,3 +35,6 @@ env/
 .DS_Store
 Thumbs.db
 .claude/
+
+# === Testes ===
+.pytest_cache/
